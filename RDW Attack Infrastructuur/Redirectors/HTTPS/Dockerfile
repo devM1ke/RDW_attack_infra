@@ -1,5 +1,5 @@
 # Pull The 16.04 Baseline Image
-FROM ubuntu:16.04
+FROM ubuntu:20.04
 
 # Environment Variables.. 
 # (Be Careful.. Each will persist inside the container)
